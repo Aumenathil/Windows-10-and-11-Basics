@@ -3,6 +3,10 @@ Windows 10 distinctions from Windows 11:
 2. Rounded corners on applications and shells.
   2a. Shells (or interfaces) are used to configure and operate computer hardware and software.
 
-One useful shell if the File Management shell within...
+Managing User Accounts within Microsoft Windows is useful from a security point of view. To make create a new User Account go to:
+The pathway is: Control Panel>Windows Administrative Tools>Computer Management.
+
+From here expand the Local Users and Groups, select the Users folder. And then the Action menu>New User
+And create your new user on that local pc.
 
 
