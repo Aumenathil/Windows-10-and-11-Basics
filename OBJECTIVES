@@ -1,0 +1,50 @@
+1.1 Identify basic features of Microsoft Windows editions:
+  a.) The stylistic choice differences ON Windows 11 FROM 10.
+        - Windows 11 has a centered aligned Taskbar. (There is an option to left-align it again under: Personalization>Taskbar>Taskbar behaviors>Taskbar alignment :option left.)
+        - The curves and edges of apps/applets/shells are all rounded.
+        - Greater spacing provided for better touch support.
+        - Start menu updated: All apps now accessible via one button.1.3 Given a scenario, use the appropiate Windows settings:
+1.3 Given a scenario, use the appropiate Windows settings:
+        - Has the ability to make a snap layout position for a window while hovering over the Maximize button.
+        - Win+CTRL+Arrow allows you to change your desktop workstation to another.
+        - Win+X key allows you to see the options for your pc more broadly (Same as Win10).
+        - The Privacy & Security>Windows Security>Protection areas posseses yellow alerts whenever something needs your direct attention.
+
+
+1.4 Given a scenario, use the appropriate Microsoft Windows 10 Control Panel utility.
+
+1.5 Given a scenario, use the appropriate Windows 10 settings.
+          - The ability to find System information within Windows.
+          - Change power options: 
+                    Right-click Start and select System.
+
+                  -   Windows provides several different ways to launch common system settings tools. It is worth learning these shortcuts to improve your productivity.
+
+From the list on the left, select Power & sleep.
+Select the Additional power settings link in the main part of the window.
+In the Power Options window, from the options on the left, select Create a power plan.
+Leave the default Balanced plan selected and in the Plan name field, overwrite the existing text with Health Fair Signature Pad. Select Next.
+At the Turn off the display screen, select 30 minutes. Select the Create button.
+To prevent problems with the signature pad, USB selective suspend must be disabled.
+Select Change plan settings next to the Health Fair Signature Pad power plan.
+Select Change advanced power settings.
+Click the Plus button next to USB settings to expand it, then expand USB selective suspend setting.
+From the Setting list box, select Disabled. Select OK.
+                          
+
+POWER OPTIONS
+
+Power management allows Windows to selectively reduce or turn off the power supplied to hardware components. The computer can be configured to enter a power-saving mode automatically; for example, if there is no use of an input device for a set period. This is important to avoid wasting energy when the computer is on but not being used and to maximize run-time when on battery power. The user can also put the computer into a power-saving state rather than shutting down.
+
+The Advanced Configuration and Power Interface (ACPI) specification is designed to ensure software and hardware compatibility for different power-saving modes. There are several levels of ACPI power mode, starting with S0 (powered on) and ending with S5 (soft power off) and G3 (mechanically powered off). In between these are different kinds of power-saving modes:
+
+Standby/Suspend to RAM—Cuts power to most devices (for example, the CPU, monitor, disk drives, and peripherals) but maintains power to the memory. This is also referred to as ACPI modes S1–S3.
+Hibernate/Suspend to Disk—Saves any open but unsaved file data in memory to disk (as hiberfil.sys in the root of the boot volume) and then turns the computer off. This is also referred to as ACPI mode S4.
+In Windows, these ACPI modes are implemented as the sleep, hybrid sleep, and modern standby modes:
+
+A laptop goes into the standby state as normal; if running on battery power, it will switch from standby to hibernate before the battery runs down.
+A desktop creates a hibernation file and then goes into the standby state. This is referred to as hybrid sleep mode. It can also be configured to switch to the full hibernation state after a defined period.
+Modern Standby utilizes a device's ability to function in an S0 low-power idle mode to maintain network connectivity without consuming too much energy.
+  
+
+
